@@ -1,0 +1,40 @@
+body 
+{
+    padding: 30px;
+    width: 500px;
+}
+
+section {
+    margin: 50px;
+}
+
+#pad {
+    margin: auto;
+    width: 50%;
+}
+
+.button {
+    padding: 20px;
+    margin: 10px;
+}
+
+.circle {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.deactivated {
+    background-color: grey;
+}
+
+.activated {
+    background-color: red;
+}
+
+.hidden {
+    visibility: hidden;
+}

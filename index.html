@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keypad Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <main>
+        <h1>Keypad puzzle</h1>
+        <div id="game">
+            <section>
+                <h3>Rules</h3>
+                <p>-To win you have to turn on all the lights on the keyboard.</p>
+                <p>-Pressing a button will turn on or off the adjacent button lights both horizontally and vertically.</p>
+                <p>-For example, if you press 2, the lights in positions 1, 2, 3 and 5 will change. If you press 5, the lights
+                    in positions 2, 4, 5, 6 and 8 will change.
+                </p>
+            </section>
+            <section>
+                <div>
+                    <div id="crystal1" class="circle"></div><div id="crystal2" class="circle"></div><div id="crystal3" class="circle"></div>
+                </div>
+                <div>
+                    <div id="crystal4" class="circle"></div><div id="crystal5" class="circle"></div><div id="crystal6" class="circle"></div>
+                </div>
+                <div>
+                    <div id="crystal7" class="circle"></div><div id="crystal8" class="circle"></div><div id="crystal9" class="circle"></div>
+                </div>
+            </section>
+            <section id="pad">
+                <div>
+                    <button id="button1" class="button">1</button><button id="button2" class="button">2</button><button id="button3" class="button">3</button>
+                </div>
+                <div>
+                    <button id="button4" class="button">4</button><button id="button5" class="button">5</button><button id="button6" class="button">6</button>
+                </div>
+                <div>
+                    <button id="button7" class="button">7</button><button id="button8" class="button">8</button><button id="button9" class="button">9</button>
+                </div>
+            </section>
+        </div>
+        <div id="victory" class="hidden">
+            <h3>You have opened the door!</h3>
+            <button onClick="window.location.reload()">Play again</button>
+        </div>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
