@@ -9,7 +9,7 @@
 
 ## Juega en el navegador
 
-You can [play](https://iwritegame.com/keypad-puzzle-javascript/) here.
+Puedes [jugar aquí](https://iwritegame.com/keypad-puzzle-javascript/).
 
 ## Visita mi página de Itch.io
 
