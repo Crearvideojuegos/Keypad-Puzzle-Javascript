@@ -1,39 +1,45 @@
 # Keypad Puzzle Javascript
 
-[![X](https://img.shields.io/badge/Follow%20%40iwritegames-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/iwritegames)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.com/iwritegames)
+[![X](https://img.shields.io/badge/Follow%20%40CrearVideojuego-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/crearvideojuego)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/crearvideojuegos)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRFsluuJre6OWpiT1hFJmjA?sub_confirmation=1)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://i-write-games.itch.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iwritegames)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IWriteGames)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://crearvideojuegos.itch.io/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crearvideojuego)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crearvideojuegos)
 
-## Play in Browser
+## Juega en el navegador
 
 You can [play](https://iwritegame.com/keypad-puzzle-javascript/) here.
 
-## About me
+## Visita mi página de Itch.io
 
-Hi! I write games and I like it! I'm Alex and welcome to my Github! I'm Gamedev and Gamedesigner and I upload my projects to Github to share them and discuss how they are programmed, which you will find later in this archive.
+[![Available on itch.io](http://jessemillar.github.io/available-on-itchio-badge/badge-color.png)](https://crearvideojuegos.itch.io)
 
-The reason is that I like my public repositories to be educational first and foremost. In the README you will find hints on how to improve the code!
+## Sobre mi
 
-If you like what I do, please follow me on my social networks!
+![Image Capture](https://iwritegame.com/github/img/mylogo.png)
 
-## About the project
+Hola! Me llamo Alex y te doy la bienvenida a mi repositorio de Github. Soy un entusiasta Gamedev y Gamedesigner y en este repositorio encontraras principalmente varios proyectos realizados en Unity, los cuales he subido por motivos educacionales. Recuerda que puedes ver mas sobre mis proyectos en mis redes sociales que tienes mas arriba.
 
-This project is a puzzle that originally appeared in the original Resident Evil.
+También hay varios proyectos web en el repositorio para su uso libre, como una web para aprender ingles mediante tarjetas, un minijuego, etc...
 
-In it, we must activate all the lights on the panel with the number buttons. The logic is simple, the light corresponding to the button and the adjacent ones horizontally and vertically will be reversed. If the light was off, it will turn on and vice versa.
+Si te gusta lo que hago, sígueme en mis redes sociales!
+
+## Sobre el proyecto
+
+Este proyecto es un puzle que apareció originalmente en el Resident Evil original.
+
+En él, debemos activar todas las luces del panel con los botones numéricos. La lógica es sencilla, la luz correspondiente al botón y las adyacentes horizontal y verticalmente se invertirán. Si la luz estaba apagada, se encenderá y viceversa.
 
 ![Image Capture](https://iwritegame.com/github/img/keyboard-puzzle-javascript-readme.jpg)
 
-## About the development and improvements
+## Sobre el desarrollo y las mejoras
 
-This project was originally done with HTML, CSS and Javascript for a website years ago... and I have done it again.
+Este proyecto se hizo originalmente con HTML, CSS y Javascript para un sitio web hace años... y lo he vuelto a hacer.
 
-Recently I uploaded the [project done](https://github.com/IWriteGames/Keypad-Puzzle-Unity) in Unity and I have decided to redo it in web format. 
+Hace poco subí el [proyecto finalizado](https://github.com/IWriteGames/Keypad-Puzzle-Unity) en Unity y he decidido rehacerlo en formato web.
 
-The reason was that I consider that it is an easy project for those people who are starting in programming, and so they can see two similar projects and the logic used in them.
+La razón fue que considero que es un proyecto fácil para aquellas personas que se están iniciando en la programación, y así pueden ver dos proyectos similares y la lógica utilizada en ellos.
 
 ## License
 
